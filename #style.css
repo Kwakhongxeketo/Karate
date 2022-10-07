@@ -1,0 +1,37 @@
+h1{
+    font-size: 60px;
+    font-style: normal;
+}
+h2{
+font-size:40px;
+font-style:italic;
+position:center;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+background-color:lightblue ;
+
+}
+h1{
+font-style: italic;
+
+}
+p{
+font-family: 'Courier New', Courier, monospace;
+font-size: 20px ;
+
+}
+
+img {
+    position: relative;
+    left: 48%;
+    height: 70px;
+    width: 120px;
+}
+
+.logo{
+    position: relative;
+    left: 2px;
+}
